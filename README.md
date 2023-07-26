@@ -1,5 +1,5 @@
 👋 Hi, I’m @je-blueink
-- 👀 Love to plan pleasant experience both on/offline touchpoint
+- 👀 Love to plan pleasant experience both on & offline touchpoint
 - 🌳 based on Content planning 🌱 currently learning Statistics, SQL, R, Python
 - 📫 je.blueink@gmail.com
 
